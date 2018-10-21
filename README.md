@@ -27,3 +27,7 @@ Applications of Linear Algebra, Part 1 and Part 2. A newer course by Tim Chartie
 * Boyd and Vandenberghe’s course on Convex optimization from Stanford.
 * Linear Algebra — Foundations to Frontiers on edX.
 * Udacity’s Introduction to Statistics.
+
+
+### References
+* https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568
