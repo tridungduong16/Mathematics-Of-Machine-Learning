@@ -1,16 +1,29 @@
-* 1.
-* 2. 0.2
-* 3. 0.2
-* 4.
-* 5.
-* 6. 0.25
-* 7.
-* 8. -10
-* 9. 5
-* 10. Use a=1/σa=1/\sigmaa=1/σ and b=−μ/σb=-\mu/\sigmab=−μ/σ
-* 11.
+Quiz:
+1. no
+2. 0.2
+3. 0.2
+4. no
+5. no
+6. 0.25
+7. no
+8. -10
+9. 5
 
-$$ \alpha,  \beta, \gamma, \Gamma, \pi, \Pi, \phi, \varphi, \mu, \Phi $$
+
+<!-- $ a^2 = b^2 $
+
+\\[ a^2 = b^2 + c^2 \\]
+\(E = mc^2\)
+
+$latex 
+\( \sqrt{27} \) 
+$latex 
+
+$ \sum_{\forall i}{x_i^{2}} $ -->
+
+
+
+<!-- $$ \alpha,  \beta, \gamma, \Gamma, \pi, \Pi, \phi, \varphi, \mu, \Phi $$
 
 Hi `$z = x + y$`.
 
@@ -20,5 +33,5 @@ Hi `$z = x + y$`.
 c & d
 \end{vmatrix}=ad-bc$$`
 
-Let $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
+Let $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$ -->
 
