@@ -31,9 +31,6 @@ Applications of Linear Algebra, Part 1 and Part 2. A newer course by Tim Chartie
 
 ### References
 * https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568
-<<<<<<< HEAD
 * https://github.com/kmario23/deep-learning-drizzle
-=======
 * https://yutsumura.com/find-eigenvalues-eigenvectors-and-diagonalize-the-2-by-2-matrix/#more-6235
 * https://github.com/afshinea/stanford-cs-229-machine-learning
->>>>>>> master
