@@ -31,3 +31,4 @@ Applications of Linear Algebra, Part 1 and Part 2. A newer course by Tim Chartie
 
 ### References
 * https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568
+* https://github.com/kmario23/deep-learning-drizzle
