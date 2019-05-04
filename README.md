@@ -38,7 +38,7 @@ Applications of Linear Algebra, Part 1 and Part 2. A newer course by Tim Chartie
 
 
 
-Optimization:
+### Optimization:
     * Basics of optimization, how to formulate the problem
     * Maxima, minima, convex function, global solution
     * Linear programming, simplex algorithm
