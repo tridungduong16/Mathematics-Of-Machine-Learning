@@ -34,3 +34,17 @@ Applications of Linear Algebra, Part 1 and Part 2. A newer course by Tim Chartie
 * https://github.com/kmario23/deep-learning-drizzle
 * https://yutsumura.com/find-eigenvalues-eigenvectors-and-diagonalize-the-2-by-2-matrix/#more-6235
 * https://github.com/afshinea/stanford-cs-229-machine-learning
+* https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd
+
+
+
+Optimization:
+    * Basics of optimization, how to formulate the problem
+    * Maxima, minima, convex function, global solution
+    * Linear programming, simplex algorithm
+    * Integer programming
+    * Constraint programming, knapsack problem
+    * Randomized optimization techniques: hill climbing, simulated annealing, genetic algorithms
+
+#### Reference:
+  * https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd
