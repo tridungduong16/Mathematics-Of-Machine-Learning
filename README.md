@@ -1,4 +1,4 @@
-# mathematics_of_machine_learning
+# Mathematics of Machine Learning
 ## The road map for learning mathematics for machine learning
 
 ### Linear Algebra: 
